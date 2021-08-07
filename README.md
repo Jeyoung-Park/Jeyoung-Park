@@ -1,6 +1,7 @@
 ### Jeyoung Park 👋
 
 🔭 I’m currently working as a React Native Developer.
+<br />
 🏫 My Major is Electronics and Electrical Engineering
 
 🧑 [This](https://lunar-jackrabbit-760.notion.site/Park-Jeyoung-fcd38d99e99f41e09937dc47ffb99b17) is my profile.
