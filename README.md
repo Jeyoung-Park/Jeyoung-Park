@@ -15,6 +15,7 @@
   
 [![Jeyoung-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeyoung-Park&theme=dark)](https://github.com/Jeyoung-Park/github-readme-stats)
 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyoung-Park&layout=compact&theme=calm" /></br>
 
 
 <!--
