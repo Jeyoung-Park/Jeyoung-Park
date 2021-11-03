@@ -13,5 +13,5 @@
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyoung-Park&layout=compact&theme=calm" />
  
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jason9380)](https://solved.ac/jason9380/)
+<!--  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jason9380)](https://solved.ac/jason9380/) -->
 
