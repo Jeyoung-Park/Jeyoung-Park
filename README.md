@@ -10,7 +10,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://m.facebook.com/profile.php?id=100005095877850&ref=content_filter)](https://m.facebook.com/profile.php?id=100005095877850&ref=content_filter)
   
   
-[![Jeyoung-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeyoung-Park&theme=chartreuse-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jeyoung-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeyoung-Park&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyoung-Park&layout=compact&theme=chartreuse-dark&hide=lua)](https://github.com/anuraghazra/github-readme-stats)
