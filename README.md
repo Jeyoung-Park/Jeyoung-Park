@@ -13,7 +13,7 @@
 [![Jeyoung-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeyoung-Park&theme=chartreuse-dark&show_icons=true)](https://github.com/Jeyoung-Park/github-readme-stats)
 
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyoung-Park&layout=compact&theme=chartreuse-dark" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyoung-Park&layout=compact&theme=chartreuse-dark&hide=lua" />
  
 <!--  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jason9380)](https://solved.ac/jason9380/) -->
 
