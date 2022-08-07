@@ -1,6 +1,6 @@
 ### Jeyoung Park 👋
 
-🔭 &nbsp; I’m currently working as a React Native Developer.   
+🔭 &nbsp; I’m currently working as a FE Developer [@Humanscape](https://humanscape.io/kr/index.html)<br />
 🏫 &nbsp; My Major is Electronics and Electrical Engineering
 
 🧑 &nbsp; [This](https://lunar-jackrabbit-760.notion.site/Park-Jeyoung-fcd38d99e99f41e09937dc47ffb99b17) is my profile.   
