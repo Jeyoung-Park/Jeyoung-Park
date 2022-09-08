@@ -1,4 +1,4 @@
-### Jeyoung Park 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03DBB2&width=435&lines=Hi!+I'm+Jeyoung+Park+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 🔭 &nbsp; I’m currently working as a FE Developer [@Humanscape](https://humanscape.io/kr/index.html)<br />
 🏫 &nbsp; My Major is Electronics and Electrical Engineering
