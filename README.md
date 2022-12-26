@@ -3,7 +3,7 @@
 🔭 I’m FE Developer <br />
 🏫 My Major is Electronics and Electrical Engineering
 
-🧑 [This](https://lunar-jackrabbit-760.notion.site/Park-Jeyoung-fcd38d99e99f41e09937dc47ffb99b17) is my profile.   
+🧑 [This](https://www.notion.so/Park-Jeyoung-fcd38d99e99f41e09937dc47ffb99b17) is my profile.   
 📄 [This](https://eloquence-developers.tistory.com/) is my blog.
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jason93801@gmail.com)](mailto:jason93801@gmail.com)
