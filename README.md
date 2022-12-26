@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03DBB2&width=435&lines=Hi!+I'm+Jeyoung+Park+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-🔭 I’m currently working as a FE Developer [@Humanscape](https://humanscape.io/kr/index.html)<br />
+🔭 I’m FE Developer <br />
 🏫 My Major is Electronics and Electrical Engineering
 
 🧑 [This](https://lunar-jackrabbit-760.notion.site/Park-Jeyoung-fcd38d99e99f41e09937dc47ffb99b17) is my profile.   
