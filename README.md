@@ -4,7 +4,8 @@
 🏫 My Major is Electronics and Electrical Engineering
 
 🧑 [This](https://www.notion.so/Park-Jeyoung-fcd38d99e99f41e09937dc47ffb99b17) is my profile.   
-📄 [This](https://eloquence-developers.tistory.com/) is my blog.
+📄 [This](https://eloquence-developers.tistory.com/) is my blog.  
+👷 Recently I'm working on [this project](https://www.solif.co/).
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Jeyoung-Park.visitor-badge)
 
