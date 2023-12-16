@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03DBB2&width=435&lines=Hi!+I'm+Jeyoung+Park+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED6E3D&width=435&lines=Hi!+I'm+Jeyoung+Park+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 🔭 I’m FE Developer <br />
 🏫 My Major is Electronics and Electrical Engineering
@@ -7,7 +7,7 @@
 📄 [This](https://eloquence-developers.tistory.com/) is my blog.  
 👷 Recently I'm working on [this project](https://masil.io/).
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Jeyoung-Park.visitor-badge)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Jeyoung-Park.visitor-badge) -->
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jason93801@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A0%9C%EC%98%81-%EB%B0%95-644b86219/)
