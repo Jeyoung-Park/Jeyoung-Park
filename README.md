@@ -13,7 +13,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A0%9C%EC%98%81-%EB%B0%95-644b86219/)
   
   
-[![Jeyoung-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeyoung-Park&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jeyoung-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeyoung-Park&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&title_color=ED6E3D)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jeyoung-Park)](https://github.com/ryo-ma/github-profile-trophy)
 
