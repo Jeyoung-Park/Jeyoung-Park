@@ -5,7 +5,7 @@
 
 🧑 [This](https://www.notion.so/Park-Jeyoung-fcd38d99e99f41e09937dc47ffb99b17) is my profile.   
 📄 [This](https://eloquence-developers.tistory.com/) is my blog.  
-👷 Recently I'm working on [this project](https://masil.io/).
+👷 Recently I'm working on [this project](https://00gangsa.com/).
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Jeyoung-Park.visitor-badge) -->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jason93801@gmail.com)
